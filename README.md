@@ -8,4 +8,4 @@
 
 * Please use LevelDB worlds saved in 1.16 format.
 * Might update slowly, but I'll try to keep this project alive.
-* Check latest version [here]([https://github.com/kjdev/php-ext-snappy](https://github.com/AshhTW/Multiversion-PM))
+Check latest version [here]([https://github.com/kjdev/php-ext-snappy](https://github.com/AshhTW/Multiversion-PM))
