@@ -1,11 +1,11 @@
 # MultiVersion
 
-* A MultiProtocol plugin that supports **1.16.x – 1.18.x**
-* This plugin was originally being maintained by **zodiax** and i have been maintaining it since.
-* Supports **PMMP NG Fork**
+* A MultiProtocol plugin that supports **Minecraft Bedrock 1.16.x–1.18.x**.
+* This plugin was originally maintained by **zodiax**, and I have been maintaining it since.
+* Supports the **PMMP NG Fork**.
 
-## Note
+## Notes
 
-* Please use LevelDB worlds saved in 1.16 format.
-* Might update slowly, but I'll try to keep this project alive.
-Check latest version [here]([https://github.com/kjdev/php-ext-snappy](https://github.com/AshhTW/Multiversion-PM))
+* Please use LevelDB worlds saved in the Minecraft 1.16 format.
+* Updates may be slow, but I’ll try to keep this project alive.
+* Check the latest version [here](https://github.com/AshhTW/Multiversion-PM).
